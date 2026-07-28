@@ -44,6 +44,10 @@ Compatible avec toutes les box Freebox OS via l'API universelle (v4 à v16+) :
 2. Téléchargez l'archive `Freenekit-Windows-v1.0.0.zip` ou `Freenekit.exe`.
 3. Lancez `Freenekit.exe`.
 
+#### 🛡️ Rapports d'Analyses Antivirus (Clean)
+- 🟢 **VirusTotal** : [Rapport d'analyse VirusTotal](https://www.virustotal.com/gui/file-analysis/Y2Q3ZDYxYzdiNTAzYzQ5M2I5YTEzODlkNGY1ZTNhYzQ6MTc4NTI1OTAwMQ==)
+- 🟢 **Jotti VirusScan** : [Rapport d'analyse Jotti VirusScan](https://virusscan.jotti.org/en-US/filescanjob/b9imgyg8w6)
+
 ### Développement Local
 ```bash
 # Installez les dépendances
