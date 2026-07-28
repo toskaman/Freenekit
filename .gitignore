@@ -10,6 +10,7 @@ BUILD/
 release/
 *.exe
 *.zip
+*.ps1
 
 # Local Config & Secrets
 *_config.json
