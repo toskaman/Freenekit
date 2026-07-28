@@ -80,4 +80,4 @@ Pour des informations détaillées et approfondies sur les endpoints REST Freebo
 ---
 
 ## 📄 Licence
-Projet sous licence MIT. Développé par MSDOS01 / Discord : therealcopper. Sur une idée de Thibault Henry et son app Mac.
+Projet sous licence MIT. Développé par MSDOS01 / Discord : therealcopper. Sur une idée de Thibault Henry et son app [Mac](https://apps.apple.com/fr/app/freenetic/id6789539547?mt=12).
