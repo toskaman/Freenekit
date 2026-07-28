@@ -8,7 +8,7 @@ import SettingsModal from './components/SettingsModal';
 import PortForwardingModal from './components/PortForwardingModal';
 import CallLogsModal from './components/CallLogsModal';
 import ErrorBoundary from './components/ErrorBoundary';
-import { Sun, Moon, Wifi, Layers, ShieldAlert, Settings, ArrowLeftRight, Phone } from 'lucide-react';
+import { Sun, Moon, Wifi, Layers, ShieldAlert, Settings, ArrowLeftRight, Phone, Heart } from 'lucide-react';
 
 export default function App() {
   const [theme, setTheme] = useState('light');
@@ -164,6 +164,18 @@ export default function App() {
                 <Phone size={14} />
               </button>
             )}
+
+            <a
+              href="https://www.paypal.com/paypalme/msdos10"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="win-btn"
+              style={{ textDecoration: 'none', color: '#ec4899', display: 'flex', alignItems: 'center', gap: 4, padding: '4px 10px', fontSize: 12, fontWeight: 600, background: 'rgba(236, 72, 153, 0.1)', border: '1px solid rgba(236, 72, 153, 0.25)', borderRadius: 6 }}
+              title="Soutenir le projet Freenekit (Faire un don PayPal)"
+            >
+              <Heart size={14} fill="#ec4899" color="#ec4899" />
+              <span>Faire un don</span>
+            </a>
 
             <button 
               className="win-btn" 

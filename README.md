@@ -1,5 +1,11 @@
 # Freenekit 📡 — Monitoring Réseau & Freebox pour Windows
 
+[![Faire un don PayPal](https://img.shields.io/badge/Soutenir_le_projet-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/msdos10)
+
+> 💙 **Soutenir le développement** : Si Freenekit vous est utile au quotidien, vous pouvez soutenir le projet et le maintien des futures mises à jour via PayPal : **[Faire un don sur PayPal (paypalme/msdos10)](https://www.paypal.com/paypalme/msdos10)**
+
+---
+
 **Freenekit** est une application desktop Windows moderne et légère conçue pour suivre en temps réel la consommation réseau, le débit Fibre/ADSL, les équipements connectés et les processus réseau de votre PC via l'API Freebox OS.
 
 ![Freenekit Interface](https://raw.githubusercontent.com/freenekit/freenekit/main/preview.png)
