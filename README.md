@@ -65,5 +65,13 @@ Lors du premier lancement :
 
 ---
 
+## 📚 Documentation Technique & API Freebox
+
+Pour des informations détaillées et approfondies sur les endpoints REST Freebox OS, le processus de découverte réseau (`api_version`), l'authentification HMAC-SHA1 ou la gestion des sessions, vous pouvez consulter la documentation technique complète :
+
+👉 **[Consulter FREEBOX_API_RESEARCH.md](./FREEBOX_API_RESEARCH.md)**
+
+---
+
 ## 📄 Licence
 Projet sous licence MIT. Développé par MSDOS01 / Discord : therealcopper. Sur une idée de Thibault Henry et son app Mac.
