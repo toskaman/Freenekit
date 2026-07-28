@@ -1,0 +1,31 @@
+# Node / Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Builds & Outputs
+dist/
+BUILD/
+release/
+*.exe
+*.zip
+
+# Local Config & Secrets
+*_config.json
+freenekit_config.json
+.env
+.env.local
+
+# IDE & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+scratch/
+scratch_*.js
+test_*.js
+run_*.js
+diagnose_*.js
+inspect_*.js
