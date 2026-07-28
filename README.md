@@ -8,6 +8,8 @@
 
 **Freenekit** est une application desktop Windows moderne et légère conçue pour suivre en temps réel la consommation réseau, le débit Fibre/ADSL, les équipements connectés et les processus réseau de votre PC via l'API Freebox OS.
 
+![Freenekit Interface](./preview.png)
+
 ---
 
 ## ✨ Fonctionnalités Principales
